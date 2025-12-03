@@ -44,7 +44,7 @@ export default function FormPage() {
     <Page title="Tạo Profile">
       <div
         style={{
-          minHeight: "70vh",
+          // minHeight: "70vh",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
