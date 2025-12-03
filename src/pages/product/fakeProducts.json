@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Dell XPS 13 Plus 9320",
+    "brand": "Dell",
+    "category": "Ultrabook",
+    "price": 1499.00,
+    "currency": "USD",
+    "discountPercentage": 10,
+    "image": "https://example.com/images/products/laptops/dell-xps-13-plus.jpg",
+    "specs": {
+      "cpu": "Intel Core i7-1360P",
+      "ram": "16GB LPDDR5",
+      "storage": "512GB NVMe SSD",
+      "display": "13.4\" OLED 3.5K Touch",
+      "gpu": "Intel Iris Xe Graphics",
+      "os": "Windows 11 Home"
+    },
+    "rating": 4.5,
+    "reviewCount": 128,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "brand": "Lenovo",
+    "category": "Business",
+    "price": 1850.00,
+    "currency": "USD",
+    "discountPercentage": 5,
+    "image": "https://example.com/images/products/laptops/thinkpad-x1-carbon.jpg",
+    "specs": {
+      "cpu": "Intel Core i7-1365U vPro",
+      "ram": "32GB LPDDR5",
+      "storage": "1TB PCIe Gen4 SSD",
+      "display": "14\" WUXGA IPS Anti-glare",
+      "gpu": "Intel Iris Xe Graphics",
+      "os": "Ubuntu Linux 22.04 LTS"
+    },
+    "rating": 4.8,
+    "reviewCount": 340,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Apple MacBook Pro 16 M3 Max",
+    "brand": "Apple",
+    "category": "Workstation",
+    "price": 3499.00,
+    "currency": "USD",
+    "discountPercentage": 0,
+    "image": "https://example.com/images/products/laptops/macbook-pro-16-m3.jpg",
+    "specs": {
+      "cpu": "Apple M3 Max (14-core)",
+      "ram": "36GB Unified Memory",
+      "storage": "1TB SSD",
+      "display": "16.2\" Liquid Retina XDR",
+      "gpu": "Apple M3 Max GPU (30-core)",
+      "os": "macOS Sonoma"
+    },
+    "rating": 4.9,
+    "reviewCount": 85,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "ASUS ROG Zephyrus G14",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 1599.99,
+    "currency": "USD",
+    "discountPercentage": 15,
+    "image": "https://example.com/images/products/laptops/rog-zephyrus-g14.jpg",
+    "specs": {
+      "cpu": "AMD Ryzen 9 7940HS",
+      "ram": "16GB DDR5",
+      "storage": "1TB PCIe 4.0 SSD",
+      "display": "14\" QHD+ 165Hz Nebula",
+      "gpu": "NVIDIA GeForce RTX 4060",
+      "os": "Windows 11 Pro"
+    },
+    "rating": 4.7,
+    "reviewCount": 210,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "HP Spectre x360 14",
+    "brand": "HP",
+    "category": "2-in-1",
+    "price": 1249.00,
+    "currency": "USD",
+    "discountPercentage": 8,
+    "image": "https://example.com/images/products/laptops/hp-spectre-x360.jpg",
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "ram": "16GB LPDDR5x",
+      "storage": "1TB SSD",
+      "display": "14\" 2.8K OLED Touch",
+      "gpu": "Intel Arc Graphics",
+      "os": "Windows 11 Home"
+    },
+    "rating": 4.6,
+    "reviewCount": 92,
+    "inStock": true
+  }
+]
